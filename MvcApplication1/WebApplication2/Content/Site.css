@@ -44,6 +44,8 @@ mark {
 
 .float-left {
     float: left;
+    height: 137px;
+    width: 469px;
 }
 
 .float-right {
